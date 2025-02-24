@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Diretórios gerados automaticamente
+/.idea
+/.gradle
+/build
+/.caches
+
+# Arquivos específicos do sistema
+*.iml
+*.log
+
+# Credenciais e configurações locais
+/local.properties
